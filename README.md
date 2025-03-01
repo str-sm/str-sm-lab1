@@ -17,12 +17,15 @@ Scrieți o clasă care modelează clasa Robot. Scrieți o clasă TestRobot care 
 ## Ex 4.
 Implementați aplicația pe baza diagramei de clasă UML de mai jos. Creați o clasă de test pentru testarea programului.
 Urmați instrucțiunile și implementați programul conform specificațiilor.
+
 ![Exercise 4 image](docs/ex4.jpg)
+
 - Implementați aplicația bazată pe diagrama de clasă UML de mai sus;
 - Metoda control() va citi și afișa valorile temperaturii și luminozității cu un interval de 1 secundă pentru o durată de 20 de secunde.
 
 ## Ex 5.
 Implementați un dicționar de cuvinte conform diagramei de mai sus. Creați o clasă ConsoleMenu pentru a oferi interacțiune cu dicționarul. Clasa va furniza acces la funcționalitatea dicționarului printr-o interfață de meniu bazată pe text.
+
 ![Exercise 5 image](docs/ex5.jpg)
 
 ## Ex 6.
